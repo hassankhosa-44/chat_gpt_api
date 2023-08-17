@@ -25,6 +25,6 @@ This is a API only application built with Ruby on Rails. It allows users to send
 * Start the Rails server:
 `rails server`
 
-* Now you can send API request to the server with any suitable application like Postman at http://localhost:3000/extension/get_summary.
+* Now you can send API request to the server with any suitable application like Postman at http://localhost:3000/api/v1/extension/get_summary
 
 
